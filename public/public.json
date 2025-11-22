@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Login issue",
+    "description": "User unable to login with correct credentials.",
+    "customer": "Rahim",
+    "priority": "High",
+    "status": "Pending",
+    "createdAt": "2025-11-18T10:32:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Payment not processing",
+    "description": "Customer reports failed payment during checkout.",
+    "customer": "Karim",
+    "priority": "Medium",
+    "status": "Submitted",
+    "createdAt": "2025-11-18T11:05:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Page not loading",
+    "description": "Support page stuck on loading spinner.",
+    "customer": "Hasib",
+    "priority": "Low",
+    "status": "Reviewed",
+    "createdAt": "2025-11-18T12:10:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Account locked",
+    "description": "Too many failed attempts, account locked.",
+    "customer": "Samiha",
+    "priority": "High",
+    "status": "Pending",
+    "createdAt": "2025-11-18T13:00:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Refund request",
+    "description": "Customer wants refund for duplicate payment.",
+    "customer": "Mehedi",
+    "priority": "Medium",
+    "status": "Submitted",
+    "createdAt": "2025-11-18T14:22:00Z"
+  },
+  {
+    "id": 6,
+    "title": "UI bug on dashboard",
+    "description": "Buttons overlapping on small screen devices.",
+    "customer": "Sadia",
+    "priority": "Low",
+    "status": "Reviewed",
+    "createdAt": "2025-11-18T15:10:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Slow loading time",
+    "description": "Customer reports website slow on mobile.",
+    "customer": "Tanvir",
+    "priority": "Medium",
+    "status": "Pending",
+    "createdAt": "2025-11-18T16:30:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Order not showing",
+    "description": "Latest order not visible in order history.",
+    "customer": "Nabila",
+    "priority": "High",
+    "status": "Submitted",
+    "createdAt": "2025-11-18T17:50:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Broken link",
+    "description": "FAQ link redirects to 404 page.",
+    "customer": "Jahid",
+    "priority": "Low",
+    "status": "Reviewed",
+    "createdAt": "2025-11-18T18:05:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Password reset mail delayed",
+    "description": "Customer not receiving reset email.",
+    "customer": "Nusrat",
+    "priority": "Medium",
+    "status": "Pending",
+    "createdAt": "2025-11-18T19:00:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Cart item disappearing",
+    "description": "Items removed when refreshing the page.",
+    "customer": "Saif",
+    "priority": "High",
+    "status": "Submitted",
+    "createdAt": "2025-11-18T20:15:00Z"
+  },
+  {
+    "id": 12,
+    "title": "Email not verified",
+    "description": "Verification email does not work.",
+    "customer": "Mariya",
+    "priority": "Medium",
+    "status": "Reviewed",
+    "createdAt": "2025-11-18T21:45:00Z"
+  },
+  {
+    "id": 13,
+    "title": "App crash on checkout",
+    "description": "Mobile app crashes when clicking checkout.",
+    "customer": "Rakib",
+    "priority": "High",
+    "status": "Pending",
+    "createdAt": "2025-11-18T22:00:00Z"
+  },
+  {
+    "id": 14,
+    "title": "Notification error",
+    "description": "Push notifications showing twice.",
+    "customer": "Rima",
+    "priority": "Low",
+    "status": "Submitted",
+    "createdAt": "2025-11-18T23:18:00Z"
+  },
+  {
+    "id": 15,
+    "title": "Unable to update profile",
+    "description": "Error when saving profile information.",
+    "customer": "Omar",
+    "priority": "Medium",
+    "status": "Reviewed",
+    "createdAt": "2025-11-19T00:10:00Z"
+  }
+]
